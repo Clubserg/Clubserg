@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:3fb950&height=200&section=header&text=Clubserg&fontSize=60&fontColor=e6edf3&fontAlignY=38&desc=Software%20Engineering%20%7C%20UniOvi&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="./banner.svg" alt="Clubserg banner" width="100%"/>
 </div>
 
 ---
