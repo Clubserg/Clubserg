@@ -1,12 +1,5 @@
 <div align="center">
-
-# Sergio · Clubserg
-
-**Estudiante de Ingeniería del Software · Universidad de Oviedo**
-
-[![University](https://img.shields.io/badge/UniOvi-UO302282-003087?style=flat-square&logo=graduation-cap&logoColor=white)](https://www.uniovi.es)
-[![Location](https://img.shields.io/badge/Oviedo-Asturias%2C%20ES-00A86B?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/Clubserg)
-
+  <img src="./banner.svg" alt="Clubserg banner" width="100%"/>
 </div>
 
 ---
